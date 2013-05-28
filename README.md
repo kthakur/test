@@ -2,4 +2,7 @@ test
 ====
 
 
-README babeh !!
+Sandbox app to test angular js patterns
+
+
+
